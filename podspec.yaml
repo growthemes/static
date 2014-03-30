@@ -1,0 +1,8 @@
+grow_version: 0.0.28
+project: growthemes/static
+title@: Static Fileset
+description@: "Serves a completely static fileset."
+
+static_dirs:
+- static_dir: /static/
+  serve_at: /
